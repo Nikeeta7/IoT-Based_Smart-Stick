@@ -2,10 +2,6 @@
 An IoT-enabled smart stick for visually & hearing-impaired users, featuring real-time obstacle detection, GPS tracking, and emergency alerts via GSM. Built with Arduino, NodeMCU, and SIM800L, it supports internet-independent SOS messaging, promoting affordable, inclusive mobility.
 <br>
 
-
-## LINK
-https://nikeeta7.github.io/IoT-Based_Smart-Stick/
-
 # Smart Stick for Visually and Hearing Impaired with IoT Integration
 
 **Project Type:** Hardware  
