@@ -53,8 +53,9 @@ Millions suffer from multi-sensory disabilities, especially in rural areas. Our 
 ## 🔧 Implementation
 
 📽️ **Project Demo Video**  
-[Click here to watch the video](https://drive.google.com/file/d/1oDhDBlUERXorA6EPc0wYgwR3tNAbTcZs/view)
-youtube link : https://youtu.be/89lYAddDf44?si=d2smjCD51LqrNjEd (our project at 13:30 ) Team_Nikeeta
+      [Click here to watch the video](https://drive.google.com/file/d/1oDhDBlUERXorA6EPc0wYgwR3tNAbTcZs/view)
+- youtube link :
+- https://youtu.be/89lYAddDf44?si=d2smjCD51LqrNjEd (our project at 13:30 ) Team_Nikeeta
 ---
 
 ## 🚀 Impact & Uniqueness
@@ -95,9 +96,16 @@ youtube link : https://youtu.be/89lYAddDf44?si=d2smjCD51LqrNjEd (our project at 
 - [ScienceDirect: ML in Assistive Tech](https://www.sciencedirect.com/science/article/pii/S1877050921003818)
 
 ---
+## screenshots 
 
+![image](https://github.com/user-attachments/assets/5e569251-3447-43c7-9689-2f6c3dcf17e9)
+![image](https://github.com/user-attachments/assets/1ad21aec-0a27-4a2b-a056-94b7ed47bf62)
+![stick (1)](https://github.com/user-attachments/assets/121e554f-acf4-4dab-b814-73209e056b57)
+
+
+---
 ## 📁 Files in this Repository
 
-- `/docs/Smart_Stick_pdf.pdf` – Project Abstract and Full Concept
+- `/docs/Smart_Stick_pdf.pdf` – uploaded it 
 - `/code/` – Arduino & NodeMCU source code (coming soon)
-- `/images/` – Project images, circuit diagrams (coming soon)
+- `/images/` – Project images, circuit diagrams 
