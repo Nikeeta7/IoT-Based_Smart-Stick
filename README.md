@@ -84,7 +84,7 @@ Millions suffer from multi-sensory disabilities, especially in rural areas. Our 
 - Sompriya N. Tiwary  
 - Pooja Sharma  
 - Suhani
-
+- HMR INSTITUTE OF TECHNOLOGY AND MANAGEMENT
 ---
 
 ## 📚 References
@@ -102,6 +102,10 @@ Millions suffer from multi-sensory disabilities, especially in rural areas. Our 
 ![image](https://github.com/user-attachments/assets/1ad21aec-0a27-4a2b-a056-94b7ed47bf62)
 ![stick (1)](https://github.com/user-attachments/assets/121e554f-acf4-4dab-b814-73209e056b57)
 
+---
+
+## Link
+https://github.com/Nikeeta7/IoT-Based_Smart-Stick/blob/main/Smart_Stick.pdf
 
 ---
 ## 📁 Files in this Repository
